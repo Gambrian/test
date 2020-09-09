@@ -28,5 +28,6 @@ do
 	echo -e $endpath"has been done.\n"
 done
 
+dos2unix count.sh
 
 #sed -n "5000,5050p" 10k_counts.bed
